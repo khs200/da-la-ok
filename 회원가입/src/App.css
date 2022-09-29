@@ -1,0 +1,44 @@
+.ek{
+  font-size: 45px;
+  color: #000;
+  position: absolute;
+  left: 45%;
+  top: 32%
+
+}
+.op{
+  width: 135px;
+  position: absolute;
+  left: 48%;
+  top: 10%
+}
+.eamp{
+  position: absolute;
+  left: 33%;
+  top: 42%;
+  width: 539px;
+  height: 57px;
+}
+.pass{
+  position: absolute;
+  left: 33%;
+  top: 55%;
+  width: 539px;
+  height: 57px;
+}
+.word{
+  position: absolute;
+  left: 33%;
+  top: 66%;
+  width: 539px;
+  height: 57px;
+}
+.nemp{
+  position: absolute;
+  left: 33%;
+  top: 78%;
+  width: 547px;
+  height: 57px;
+  background-color: black;
+  color: rgb(248, 245, 245);
+}

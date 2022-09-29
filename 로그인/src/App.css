@@ -1,0 +1,47 @@
+.wo{
+position: absolute;
+ left: 33%;
+ top: 66%;
+ text-decoration: none;
+ font-size: 30px;
+ color: aliceblue;
+ background-color: black;
+ width: 550px;
+ height: 57px;
+} 
+.mo{
+  position: absolute;
+  left: 49%;
+  top: 76%;
+  text-decoration: none;
+ font-size: 17px;
+ color: rgba(125, 104, 104, 0.779);
+ 
+}
+.lo{
+  position: absolute;
+  left: 33%;
+  top: 50%;
+  width: 542px;
+  height: 40px;
+}
+.password{
+  position: absolute;
+  left: 33%;
+  top: 58%;
+  width: 542px;
+  height: 40px;
+
+}
+.jo{
+  position: absolute;
+  left: 42%;
+  top: 36%;
+  font-size: 57px;
+}
+.ip{
+  position: absolute;
+  left: 45%;
+  top: 14%;
+  width: 165px;
+}
